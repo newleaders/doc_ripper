@@ -7,7 +7,7 @@ begin
   # gem 'sqlite3'
   require 'sqlite3'
 rescue LoadError
-  warn SQLITE_LOAD_WARNING
+  # warn SQLITE_LOAD_WARNING
 end
 
 module DocRipper
