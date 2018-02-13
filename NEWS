@@ -1,0 +1,2 @@
+0.0.9 (February 12, 2018)
+  Update CFPropertyList to 3.0 which drops support for ruby 1.8
